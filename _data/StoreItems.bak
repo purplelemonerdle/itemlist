@@ -532,13 +532,13 @@
       "abr": "herbalmedicine",
       "category": "Medicine",
       "defname": "MedicineHerbal",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "component",
@@ -2734,49 +2734,49 @@
       "abr": "bionicarm",
       "category": "Bionic",
       "defname": "BionicArm",
-      "price": 1717
+      "price": -10
     },
     {
       "abr": "bionicear",
       "category": "Bionic",
       "defname": "BionicEar",
-      "price": 1308
+      "price": -10
     },
     {
       "abr": "bioniceye",
       "category": "Bionic",
       "defname": "BionicEye",
-      "price": 1717
+      "price": -10
     },
     {
       "abr": "bionicheart",
       "category": "Bionic",
       "defname": "BionicHeart",
-      "price": 1717
+      "price": -10
     },
     {
       "abr": "bionicleg",
       "category": "Bionic",
       "defname": "BionicLeg",
-      "price": 1717
+      "price": -10
     },
     {
       "abr": "bionicspine",
       "category": "Bionic",
       "defname": "BionicSpine",
-      "price": 1717
+      "price": -10
     },
     {
       "abr": "bionicstomach",
       "category": "Bionic",
       "defname": "BionicStomach",
-      "price": 1308
+      "price": -10
     },
     {
       "abr": "bionictongue",
       "category": "Bionic",
       "defname": "BionicTongue",
-      "price": 942
+      "price": -10
     },
     {
       "abr": "biosculpterpod",
@@ -3556,7 +3556,7 @@
       "abr": "medicine",
       "category": "Medicine",
       "defname": "MedicineIndustrial",
-      "price": 30
+      "price": -10
     },
     {
       "abr": "megalith",
@@ -5230,7 +5230,7 @@
       "abr": "bionicjaw",
       "category": "Bionic",
       "defname": "BionicJaw",
-      "price": 1308
+      "price": -10
     },
     {
       "abr": "blackbear",
