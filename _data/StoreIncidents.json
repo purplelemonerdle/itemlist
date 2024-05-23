@@ -6,6 +6,21 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "farmanimals",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "dropraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "reviveanypawn",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "pawn",
 		"price": 1,
 		"karmatype": "Good"
@@ -24,6 +39,11 @@
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "reviveall",
+		"price": 22664,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
@@ -61,12 +81,22 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "use",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wear",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
@@ -86,5 +116,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 17
+	"total": 23
 }

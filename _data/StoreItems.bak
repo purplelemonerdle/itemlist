@@ -22,7 +22,7 @@
       "abr": "luciferium",
       "category": "Drugs",
       "defname": "Luciferium",
-      "price": -10
+      "price": 117
     },
     {
       "abr": "psychitetea",
@@ -424,7 +424,7 @@
       "abr": "kibble",
       "category": "Foods",
       "defname": "Kibble",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "pemmican",
@@ -436,7 +436,7 @@
       "abr": "chocolate",
       "category": "Foods",
       "defname": "Chocolate",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "milk",
@@ -532,13 +532,13 @@
       "abr": "herbalmedicine",
       "category": "Medicine",
       "defname": "MedicineHerbal",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "component",
@@ -634,7 +634,7 @@
       "abr": "gold",
       "category": "Raw resources",
       "defname": "Gold",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "steel",
@@ -994,7 +994,7 @@
       "abr": "gladius",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Gladius",
-      "price": -10
+      "price": 239
     },
     {
       "abr": "longsword",
@@ -1540,7 +1540,7 @@
       "abr": "eltexhelmet",
       "category": "Headgear",
       "defname": "Apparel_PsyfocusHelmet",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "eltexcirclet",
@@ -2032,7 +2032,7 @@
       "abr": "babyfood",
       "category": "Foods",
       "defname": "BabyFood",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "hemogenpack",
@@ -2128,31 +2128,31 @@
       "abr": "kidromper",
       "category": "Misc",
       "defname": "Apparel_KidRomper",
-      "price": -10
+      "price": 112
     },
     {
       "abr": "kidshirt",
       "category": "Misc",
       "defname": "Apparel_KidShirt",
-      "price": -10
+      "price": 74
     },
     {
       "abr": "kidpants",
       "category": "Misc",
       "defname": "Apparel_KidPants",
-      "price": -10
+      "price": 74
     },
     {
       "abr": "kidparka",
       "category": "Misc",
       "defname": "Apparel_KidParka",
-      "price": -10
+      "price": 172
     },
     {
       "abr": "kidtribalwear",
       "category": "Misc",
       "defname": "Apparel_KidTribal",
-      "price": -10
+      "price": 108
     },
     {
       "abr": "gasmask",
@@ -2668,19 +2668,19 @@
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotecheye",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "armorskingland",
@@ -2734,49 +2734,49 @@
       "abr": "bionicarm",
       "category": "Bionic",
       "defname": "BionicArm",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicear",
       "category": "Bionic",
       "defname": "BionicEar",
-      "price": -10
+      "price": 1308
     },
     {
       "abr": "bioniceye",
       "category": "Bionic",
       "defname": "BionicEye",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicheart",
       "category": "Bionic",
       "defname": "BionicHeart",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicleg",
       "category": "Bionic",
       "defname": "BionicLeg",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicspine",
       "category": "Bionic",
       "defname": "BionicSpine",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicstomach",
       "category": "Bionic",
       "defname": "BionicStomach",
-      "price": -10
+      "price": 1308
     },
     {
       "abr": "bionictongue",
       "category": "Bionic",
       "defname": "BionicTongue",
-      "price": -10
+      "price": 942
     },
     {
       "abr": "biosculpterpod",
@@ -2836,7 +2836,7 @@
       "abr": "cataphracthelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetCataphract",
-      "price": -10
+      "price": 1242
     },
     {
       "abr": "chainshotgun",
@@ -3100,7 +3100,7 @@
       "abr": "flakhelmet",
       "category": "Headgear",
       "defname": "Apparel_AdvancedHelmet",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "flakjacket",
@@ -3430,7 +3430,7 @@
       "abr": "kidhelmet",
       "category": "Headgear",
       "defname": "Apparel_KidHelmet",
-      "price": -10
+      "price": 79
     },
     {
       "abr": "kneespike",
@@ -3514,7 +3514,7 @@
       "abr": "marinehelmet",
       "category": "Headgear",
       "defname": "Apparel_PowerArmorHelmet",
-      "price": -10
+      "price": 1058
     },
     {
       "abr": "mechbooster",
@@ -3532,7 +3532,7 @@
       "abr": "mechcommanderhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetMechCommander",
-      "price": -10
+      "price": 2150
     },
     {
       "abr": "mechlink",
@@ -3544,7 +3544,7 @@
       "abr": "mechlordhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetMechlordHelmet",
-      "price": -10
+      "price": 8892
     },
     {
       "abr": "mechlordsuit",
@@ -3556,7 +3556,7 @@
       "abr": "medicine",
       "category": "Medicine",
       "defname": "MedicineIndustrial",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "megalith",
@@ -3868,7 +3868,7 @@
       "abr": "prestigecataphracthelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetCataphractPrestige",
-      "price": -10
+      "price": 1925
     },
     {
       "abr": "prestigemarinearmor",
@@ -3880,7 +3880,7 @@
       "abr": "prestigemarinehelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorMarineHelmetPrestige",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "prestigereconarmor",
@@ -3892,7 +3892,7 @@
       "abr": "prestigereconhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetReconPrestige",
-      "price": -10
+      "price": 1192
     },
     {
       "abr": "prestigestellicspear",
@@ -3940,7 +3940,7 @@
       "abr": "psychicfoilhelmet",
       "category": "Headgear",
       "defname": "Apparel_PsychicFoilHelmet",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psychicharmonizer",
@@ -4162,7 +4162,7 @@
       "abr": "reconhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetRecon",
-      "price": -10
+      "price": 875
     },
     {
       "abr": "remoterepairer",
@@ -4258,7 +4258,7 @@
       "abr": "simplehelmet",
       "category": "Headgear",
       "defname": "Apparel_SimpleHelmet",
-      "price": -10
+      "price": 153
     },
     {
       "abr": "skilltrainer(animals)",
@@ -5230,7 +5230,7 @@
       "abr": "bionicjaw",
       "category": "Bionic",
       "defname": "BionicJaw",
-      "price": -10
+      "price": 1308
     },
     {
       "abr": "blackbear",
@@ -5398,7 +5398,7 @@
       "abr": "carapacehelmet",
       "category": "Headgear",
       "defname": "Apparel_ACPCarapaceHelmet",
-      "price": -10
+      "price": 392
     },
     {
       "abr": "ceremonialhood",
@@ -7990,139 +7990,139 @@
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
-      "price": -10
+      "price": 155
     },
     {
       "abr": "guestdoublebed",
       "category": "Furniture",
       "defname": "DoubleBedGuest",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "guestroyalbed",
       "category": "Furniture",
       "defname": "RoyalBedGuest",
-      "price": -10
+      "price": 1467
     },
     {
       "abr": "guesthospitalbed",
       "category": "Furniture",
       "defname": "HospitalBedGuest",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "guestbedroll",
       "category": "Furniture",
       "defname": "BedrollGuest",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "guestdoublebedroll",
       "category": "Furniture",
       "defname": "BedrollDoubleGuest",
-      "price": -10
+      "price": 290
     },
     {
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "SlabBedGuest",
-      "price": -10
+      "price": 102
     },
     {
       "abr": "guestslabdoublebed",
       "category": "Furniture",
       "defname": "SlabDoubleBedGuest",
-      "price": -10
+      "price": 288
     },
     {
       "abr": "guestdeathrestcasket",
       "category": "Misc",
       "defname": "DeathrestCasketGuest",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "guestcrib",
       "category": "Furniture",
       "defname": "CribGuest",
-      "price": -10
+      "price": 86
     },
     {
       "abr": "guestancienthospitalbed",
       "category": "Furniture",
       "defname": "AG_RuinedHospitalBedGuest",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "guestcubicbed",
       "category": "Furniture",
       "defname": "AM_CubicBedGuest",
-      "price": -10
+      "price": 155
     },
     {
       "abr": "guestdoublecubicbed",
       "category": "Furniture",
       "defname": "AM_DoubleCubicBedGuest",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "guestcubichospitalbed",
       "category": "Furniture",
       "defname": "AM_CubicHospitalBedGuest",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "guesthoraxianbed",
       "category": "Furniture",
       "defname": "AM_HoraxianBedGuest",
-      "price": -10
+      "price": 155
     },
     {
       "abr": "guestdoublehoraxianbed",
       "category": "Furniture",
       "defname": "AM_DoubleHoraxianBedGuest",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "gueststone-framedbedroll",
       "category": "Furniture",
       "defname": "AM_StoneBedrollGuest",
-      "price": -10
+      "price": 159
     },
     {
       "abr": "guestdoublestone-framedbedroll",
       "category": "Furniture",
       "defname": "AM_DoubleStoneBedrollGuest",
-      "price": -10
+      "price": 295
     },
     {
       "abr": "guestrestoredancientbed",
       "category": "Furniture",
       "defname": "AM_AncientBedGuest",
-      "price": -10
+      "price": 105
     },
     {
       "abr": "guestrestoredancientdoublebed",
       "category": "Furniture",
       "defname": "AM_AncientDoubleBedGuest",
-      "price": -10
+      "price": 242
     },
     {
       "abr": "guestrestoredancientoperatingtable",
       "category": "Furniture",
       "defname": "AM_AncientOperatingTableGuest",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "guestcubiccrib",
       "category": "Furniture",
       "defname": "AM_CubicCribGuest",
-      "price": -10
+      "price": 86
     }
   ],
   "total": 1354
