@@ -1,13 +1,58 @@
 {
 	"incitems" : [
 	{
+		"abr": "clearweather",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "rain",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "vomitrain",
+		"price": 650,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "foggyrain",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "eclipse",
+		"price": 450,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "aurora",
 		"price": 200,
 		"karmatype": "Good"
 	},
 	{
+		"abr": "psychicsoothe",
+		"price": 250,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "farmanimals",
 		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "rarethrumbos",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "party",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "militaryaid",
+		"price": 700,
 		"karmatype": "Good"
 	},
 	{
@@ -56,6 +101,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "healme",
 		"price": 2167,
 		"karmatype": "Good"
@@ -69,6 +119,11 @@
 		"abr": "replacetrait",
 		"price": 1,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fullheal",
+		"price": 2167,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
@@ -116,5 +171,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 23
+	"total": 34
 }

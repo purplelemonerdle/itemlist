@@ -9,7 +9,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "3.0.4.0"
+    "version": "3.1.0.0"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -39,7 +39,7 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "11.0.3"
+    "version": "11.0.4"
   },
   {
     "author": "Orion",
@@ -177,7 +177,7 @@
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "3.0.0.0"
+    "version": "3.1.0.0"
   },
   {
     "author": "Mlie",
@@ -427,7 +427,7 @@
   },
   {
     "author": "Telkir and Rain",
-    "name": "[T] MoreFloors 1.4",
+    "name": "[T] MoreFloors 1.5",
     "steamId": null,
     "version": null
   },
@@ -441,7 +441,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8895.34406"
+    "version": "1.0.8911.30668"
   },
   {
     "author": "void",
