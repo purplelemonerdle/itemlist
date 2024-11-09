@@ -31,6 +31,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "tradercaravan",
+		"price": 275,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "psychicsoothe",
 		"price": 250,
 		"karmatype": "Good"
@@ -54,11 +59,6 @@
 		"abr": "militaryaid",
 		"price": 700,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviveanypawn",
